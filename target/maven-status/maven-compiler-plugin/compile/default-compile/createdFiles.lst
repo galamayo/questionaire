@@ -1,0 +1,8 @@
+modeles\Joueur.class
+vues\Vue.class
+modeles\Question.class
+questionnairemvc\questionaire\Quizz.class
+controleurs\Controller.class
+modeles\Model.class
+modeles\Niveau.class
+modeles\Categorie.class
